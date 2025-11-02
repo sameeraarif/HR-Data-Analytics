@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # [HR Analytics Dashboard using Power BI 🔗](https://drive.google.com/file/d/1QAgwbksRTq-YgoSl6g6PPHij9UzKaMpg/view?usp=sharing)
 
 ## Objective
@@ -65,4 +64,3 @@ Throughout this project, I've had the chance to:
 =======
 # HR-Data-Analytics
 Interactive Power BI dashboard for HR analytics and employee attrition analysis
->>>>>>> 8660dc59542df3166a108457c6601681fb151ca2

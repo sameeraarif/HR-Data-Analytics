@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [HR Analytics Dashboard using Power BI 🔗](https://drive.google.com/file/d/1QAgwbksRTq-YgoSl6g6PPHij9UzKaMpg/view?usp=sharing)
 
 ## Objective
@@ -61,3 +62,7 @@ Throughout this project, I've had the chance to:
 7. **Attrition Rate by Gender for Different Age Group:**  The attrition count among the age group of 25-34 years 112 which is maximum among the other age groups.
 
 [ Dashboard](https://drive.google.com/file/d/1QAgwbksRTq-YgoSl6g6PPHij9UzKaMpg/view?usp=sharing)
+=======
+# HR-Data-Analytics
+Interactive Power BI dashboard for HR analytics and employee attrition analysis
+>>>>>>> 8660dc59542df3166a108457c6601681fb151ca2
